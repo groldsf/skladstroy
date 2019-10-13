@@ -27,7 +27,8 @@
 
 <style scoped>
 .itemList{
-    padding-right: 20px;
+    margin:0 auto;
+    /*padding-right:20px ;*/
     width: 270px;
 
 }
@@ -35,6 +36,7 @@
 a{
         text-decoration: none;
         color:white;
+
 }
 
 

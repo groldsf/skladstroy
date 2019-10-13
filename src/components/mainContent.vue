@@ -61,6 +61,10 @@
         /*flex-wrap: wrap;*/
         /*align-content: flex-start;*/
         list-style: none;
+        margin: 0 auto;
+        align-content: center;
+        align-items: center;
+        text-align: center;
 
     }
     img{
@@ -70,9 +74,10 @@
     text-decoration: none
     }
     .azaz{
-        padding: 0 auto;
-        display: flex;
+        margin: 0 auto;
+        display: inline-flex;
         flex-wrap: wrap;
+
 
 
     }
