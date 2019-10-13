@@ -45,6 +45,31 @@ import platform from "@/productInfo/telega/platform";
 import SHTABgidr from "@/productInfo/telega/SHTABgidr";
 import electroSHTAb from "@/productInfo/telega/electroSHTAb";
 import samoxod from "@/productInfo/telega/samoxod";
+import SJM from "./domkrat/SJM";
+import SWL from "./domkrat/SWL";
+import SWLpodxv from "./domkrat/SWLpodxv";
+import HIjack from "./domkrat/HIjack";
+import GidrButil from "./domkrat/GidrButil";
+import GIdrLapa from "./domkrat/GIdrLapa";
+import GidrDY from "./domkrat/GidrDY";
+import GidrDY2x from "./domkrat/GidrDY2x";
+import Telescop from "./domkrat/Telescop";
+import MTM from "./lebedka/MTM";
+import CHW from "./lebedka/CHW";
+import WH from "./lebedka/WH";
+import WhLenta from "./lebedka/WhLenta";
+import VS from "./lebedka/VS";
+import AHW from "./lebedka/AHW";
+import P_LE from "./lebedka/P_LE";
+import KDJ from "./lebedka/KDJ";
+import gusek from "./lebedka/gusek";
+import zaxvatMagn from "./lebedka/zaxvatMagn";
+import zaxvatGorVert from "./lebedka/zaxvatGorVert";
+import ElTalPA from "./lebedka/ElTalPA";
+import TalMini from "./lebedka/TalMini";
+import TalRuchShest from "./lebedka/TalRuchShest";
+import TalRuchRich from "./lebedka/TalRuchRich";
+import ZaxvatKlipsa from "./lebedka/ZaxvatKlipsa";
 
 export default [
 
@@ -62,10 +87,17 @@ export default [
 
     //telega
     AS25,KorDlinVilka, THR, AC3,JF1000,CW25,platform, SHTABgidr,
-    electroSHTAb,samoxod
+    electroSHTAb,samoxod,
 
     //domkrat
+    SJM,SWL,SWLpodxv, HIjack, GidrButil,GIdrLapa, GidrDY,GidrDY2x,
+    Telescop,
 
+    //lebedka
+    MTM,CHW,WH,WhLenta,VS,AHW,P_LE,KDJ,gusek,zaxvatMagn,zaxvatGorVert,
+    ElTalPA,TalMini,TalRuchShest,TalRuchRich,ZaxvatKlipsa,
+
+    //systemxran
 
 
 ]

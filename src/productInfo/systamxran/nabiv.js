@@ -1,6 +1,6 @@
 export default{
-    tags: new Set(['domkrat', 'all']),
+    tags: new Set(['systemxran', 'all']),
     src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
-    name: "Домкрат реечный модель SWL",
+    name: "Фронтальные стеллажи",
     html:""
 }
