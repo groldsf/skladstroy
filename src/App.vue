@@ -1,13 +1,9 @@
 <template>
   <div>
     <navig/>
-
     <div class="wrap"><router-view/></div>
-
-
     <myfooter/>
   </div>
-
  </template>
 
 
@@ -18,14 +14,9 @@ import myfooter from "@/components/myfooter";
 
 export default {
   name: 'app',
-
-
-
   components: {
     navig,
     myfooter,
-
-
   }
 }
 </script>
