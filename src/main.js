@@ -41,8 +41,5 @@ new Vue({
   router,
 }).$mount('#navig')
 
-new Vue({
-    render: h=> h(mainPG),
-    router,
-}).$mount( '#mainPG')
+
 

@@ -1,5 +1,5 @@
 export default{
-    tags: new Set(['stellazhi', 'all']),
+    tags: new Set(['stellazh', 'all']),
     src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
     name: "Стеллажи из ламинированного ДСП (ст3-300)",
     html:"<div class=\"btp-detail-desc\">\n" +
