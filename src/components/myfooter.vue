@@ -1,22 +1,33 @@
 <template>
-    <div class="footer">
-        <div class="cross-line">
+    <v-footer dark padless app>
+
+        <div class="footer123">
+            <div class="cross-line"/>
+
+
+            <div class="wrap">
+                <div class="footer-el">
+                    <p>
+                        АДРЕС: Г.ВОРОНЕЖ,УЛ.КОЛЬЦОВСКАЯ,17
+                    </p>
+                    <p >
+                        ТЕЛЕФОН:<a href="tel:+79192334380"> +7-919-233-43-80</a>
+                    </p>
+                </div>
+
+                <div class="footer-el">
+                    <p>
+                        ПОЧТА:<a href="mailto:sklad-stroy@mail.ru">SKLAD-STROY@MAIL.RU</a>
+                    </p>
+                    <p>
+                        МЫ ВКОНТАКТЕ
+                    </p>
+                </div>
+
+
+            </div>
         </div>
-        <div class="wrap">
-            <p>
-            АДРЕС: Г.ВОРОНЕЖ,УЛ.КОЛЬЦОВСКАЯ,17
-        </p>
-            <p>
-            ТЕЛЕФОН:<a href="tel:+79192334380"> +7-919-233-43-80</a>
-        </p>
-            <p>
-            ПОЧТА:<a href="mailto:sklad-stroy@mail.ru">SKLAD-STROY@MAIL.RU</a>
-        </p>
-            <p>
-            МЫ ВКОНТАКТЕ
-        </p>
-        </div>
-    </div>
+    </v-footer>
 </template>
 
 <script>
@@ -26,8 +37,13 @@
 </script>
 
 <style scoped>
-    .footer{ padding: 0; margin: 0;
+    .footer123{ padding: 0; margin: 0;
         background-color: black;
+        width: 100%;
     }
-    .footer a{ color: white;}
+    .footer123 a{ color: white;}
+    .footer-el {
+        display: inline-block;
+        width: 50%;
+    }
 </style>
