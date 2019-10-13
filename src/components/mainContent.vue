@@ -6,7 +6,7 @@
                  {{selectTag.name}}
         <div class="catalog-list">
             <div class="azaz">
-                <ProductLink v-for="(index,i) in selectProducts" :key="index.id" :product-name="index.id"></ProductLink>
+                <ProductLink v-for="index in selectProducts" :key="index.id" :product-name="index.id"></ProductLink>
             </div>
         </div>
 
