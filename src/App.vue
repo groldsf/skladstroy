@@ -1,9 +1,9 @@
 <template>
   <div>
     <navig/>
-    <v-content>
-      <div class="wrap"><router-view/></div>
-    </v-content>
+
+    <div class="wrap"><router-view/></div>
+
 
     <myfooter/>
   </div>
