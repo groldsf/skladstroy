@@ -3,9 +3,12 @@
     <v-app-bar dark app color="black" tag="header" extension-height="20">
         <div class="inner-wrap">
             <div class="inner-nav">
-                <v-btn-toggle>
+                <v-btn-toggle mandatory>
                     <router-link to="/main" class="logo-link">
-                        <img src="pics/logo.svg" alt="LOGO" />
+                        <v-btn>
+                            <img src="pics/logo.svg" alt="LOGO" />
+                        </v-btn>
+
                     </router-link>
                     <!--                        <ul class="navigation-list">-->
                     <!--                            -->

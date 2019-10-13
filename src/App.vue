@@ -43,8 +43,7 @@
         position: fixed;
         top: 0;
         left: 0;
-        background-image:url("/pics/Layer.png");
+        background-image:url("assets/pics/layer.png");
         background-size: cover;
-        background-color: red;
     }
 </style>
