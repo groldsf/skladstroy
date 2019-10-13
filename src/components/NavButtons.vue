@@ -4,6 +4,7 @@
             <li> <button @click="selectTag.name='all'"> Все товары</button></li>
             <li> <button @click="selectTag.name='kolesa'" > Колесные опоры </button> </li>
             <li> <button @click="selectTag.name='stellazh'" > Стеллажи </button>  </li>
+            <li> <button @click="selectTag.name='systemxran'" > Стеллажные системы хранения </button>  </li>
             <li> <button @click="selectTag.name='mebel'" > Металлическая мебель </button> </li>
             <li> <button @click="selectTag.name='telega'" > Тележки и Штабелеры</button>  </li>
             <li> <button @click="selectTag.name='domkrat'" > Домкраты</button>  </li>
