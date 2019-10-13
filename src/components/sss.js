@@ -1,1 +1,1 @@
-tyt chota bydet
+я тоже так могу
