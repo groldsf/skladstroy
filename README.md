@@ -1,4 +1,4 @@
-# skladstroy
+# sklad
 
 ## Project setup
 ```
