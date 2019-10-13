@@ -57,14 +57,13 @@
     text-align: center;
     }
     .catalog-list {
-        /*display: flex;*/
-        /*flex-wrap: wrap;*/
-        /*align-content: flex-start;*/
+
         list-style: none;
         margin: 0 auto;
         align-content: center;
-        align-items: center;
+
         text-align: center;
+        width: 99%;
 
     }
     img{
@@ -77,6 +76,7 @@
         margin: 0 auto;
         display: inline-flex;
         flex-wrap: wrap;
+
 
 
 
