@@ -4,7 +4,7 @@
         <div class="inner-wrap">
             <div class="inner-nav">
                 <v-btn-toggle mandatory>
-                    <router-link to="/main" class="logo-link">
+                    <router-link :to="{name:'homePage'}" class="logo-link">
                         <v-btn>
                             <img src="pics/logo.svg" alt="LOGO" />
                         </v-btn>

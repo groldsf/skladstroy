@@ -25,8 +25,12 @@ const routes = [
     {path: '/about',component:ContentNoBTN, props:{type:types[1] }},
     {path: '/contacts',component:ContentNoBTN, props:{type:types[2]}},
     { path: '/product/:id', component:Product, props:true},
-    { path: '/main', component:mainPage,},
+    { path: '/', name: 'homePage', component:mainPage, },
+
+
+    {path:'/*',redirect:{name:'homePage'}}
 ]
+
 
 
 
