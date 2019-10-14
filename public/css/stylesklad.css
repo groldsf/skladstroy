@@ -11,7 +11,7 @@ body {
   color: white;
   text-transform: uppercase;
   background-color: black;
-background-image: url("../pics/Layer.png");
+background-image: url("../../src/assets/pics/layer.png");
 background-position: top center;
 background-repeat: no-repeat;
 width: 100%; height: 100%;

@@ -1,38 +1,56 @@
 <template>
-    <div>
 
-        <header class="main-navigation">
-            <div class="inner-wrap">
-                <div class="inner-nav">
-                    <a  href="indexx.html" class="logo-link"><img src="pics/logo.svg" alt="LOGO" /></a>
-                    <ul class="navigation-list">
-                        <li><router-link to="/catalog">Каталог</router-link></li>
-<!--                        <li><router-link to="/metall-construct">Металлоконструкции</router-link></li>-->
-<!--                        <li><router-link to="/ventellation">Системы вентиляции</router-link></li>-->
-                        <li><router-link to="/about">О нас</router-link></li>
-                        <li><router-link to="/contacts">Контакты</router-link></li>
-                     </ul>
-                </div>
-             </div>
-            <div class="cross-line">
-            </div>
-        </header>
+        <v-app-bar app color="black" tag="header" extension-height="20">
+            <v-btn-toggle mandatory class="inner-wrap" >
+                        <router-link :to="{name:'homePage'}" class="logo-link">
+                            <v-btn>
+                                <img src="pics/logo.svg" alt="LOGO" />
+                            </v-btn>
+                        </router-link>
+                        <v-spacer></v-spacer>
+                        <!--                        <ul class="navigation-list">-->
+                        <!--                            -->
+                        <!--                                                    <li><router-link to="/metall-construct">Металлоконструкции</router-link></li>-->
+                        <!--                                                    <li><router-link to="/ventellation">Системы вентиляции</router-link></li>-->
+                        <!--                            -->
+                        <!--                        </ul>-->
+                        <router-link to="/catalog">
+                            <v-btn>
+                                Каталог
+                            </v-btn>
+                        </router-link>
+                        <router-link to="/about">
+                            <v-btn>
+                                О нас
+                            </v-btn>
+                        </router-link>
+                        <router-link to="/contacts">
+                            <v-btn>
+                                Контакты
+                            </v-btn>
+                        </router-link>
+            </v-btn-toggle>
+            <template class="ma-0 pa-0" #extension>
+                <div class="cross-line"/>
+            </template>
+        </v-app-bar>
 
-    </div>
+
+
 </template>
 
 <script>
 
     export default {
         name: "navig",
-
-
-
     }
 </script>
 
 <style scoped>
-
-
-
+    a{
+        background-color: black;
+    }
+    .inner-wrap{
+        background-color: black !important;
+    }
 </style>
