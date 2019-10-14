@@ -1,6 +1,6 @@
 export default {
     tags: new Set(['mebel', 'all']),
-    src: "pics/products/mebel/kolesaBezKR.jpg", //пикчи запихнуть
+    src: "pics/products/mebel/SHR.jpg", //пикчи запихнуть
     name: "Шкафы сварной конструкции ШР для одежды",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +

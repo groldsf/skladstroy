@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['systemxran', 'all']),
-    src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
+    src: "pics/products/systemxran/front.jpeg", //пикчи запихнуть
     name: "Фронтальные стеллажи",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +

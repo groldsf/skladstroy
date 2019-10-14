@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['stellazh', 'all']),
-    src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
+    src: "pics/products/stellazh/torg.jpeg", //пикчи запихнуть
     name: "Торговые стеллажи 0.7/1/1.25 шириной",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +

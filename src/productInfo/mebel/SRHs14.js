@@ -1,6 +1,6 @@
 export default{
 	tags: new Set(['mebel', 'all']),
-	src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
+	src: "pics/products/mebel/SHRS14.jpg", //пикчи запихнуть
 	name: "Шкафы модульные для сумок и личных вещей ШРС-14",
 	html:"<div class=\"btp-detail-desc\">\n" +
 	"\t\t\t<div class=\"btp-detail-desc-full\">\n" +

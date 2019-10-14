@@ -1,6 +1,6 @@
 export default{
-    tags: new Set(['stellazh', 'all']),
-    src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
+    tags: new Set(['stellazh','systemxran', 'all']),
+    src: "pics/products/stellazh/kg3500.jpeg", //пикчи запихнуть
     name: "Полочные стеллажи нагрузка до 3500кг на секцию",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +

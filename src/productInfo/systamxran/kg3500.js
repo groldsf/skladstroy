@@ -1,5 +1,5 @@
 export default{
-    tags: new Set(['systemnxran', 'all']),
+    tags: new Set(['systemxran', 'all']),
     src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
     name: "Полочные стеллажи нагрузка до 3500кг на секцию",
     html:"<div class=\"btp-detail-desc\">\n" +
