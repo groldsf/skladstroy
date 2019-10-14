@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['systemxran', 'all']),
-    src: "pics/products/systamxran/samones.jpg", //пикчи запихнуть
+    src: "pics/products/systemxran/samones.jpg", //пикчи запихнуть
     name: "САМОНЕСУЩИЕ СТЕЛЛАЖНЫЕ КОНСТРУКЦИИ",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +

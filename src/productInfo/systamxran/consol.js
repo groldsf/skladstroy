@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['systemxran', 'all']),
-    src: "pics/products/systamxran/consol.jpeg", //пикчи запихнуть
+    src: "pics/products/systemxran/consol.jpeg", //пикчи запихнуть
     name: "Консольные стеллажи",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
