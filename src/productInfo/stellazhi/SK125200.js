@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['stellazh', 'all']),
-    src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
+    src: "pics/products/stellazh/SK125.jpg", //пикчи запихнуть
     name: "Универсальные стеллажи СК (125кг) и СКУ (200кг)",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +

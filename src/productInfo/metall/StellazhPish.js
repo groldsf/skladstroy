@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['metall', 'all']),
-    src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
+    src: "pics/products/metall/stelagiPI.jpeg", //пикчи запихнуть
     name: "Стеллажи пищевые",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
