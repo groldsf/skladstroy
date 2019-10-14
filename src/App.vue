@@ -1,7 +1,7 @@
 <template>
     <div>
         <span class="bg"></span>
-        <v-app dark>
+        <v-app>
             <v-content>
                 <navig/>
                 <div class="wrap">
