@@ -1,6 +1,6 @@
 export default {
 	tags: new Set(['mebel', 'all']),
-	src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
+	src: "pics/products/mebel/SHXA850.jpeg", //пикчи запихнуть
 	name: "Шкаф архивный серии " +
 		"ШХА/2-850, ШХА-850, ШХА-900, ШХА/2-900",
 	html:"<div class=\"btp-detail-desc\">\n" +
