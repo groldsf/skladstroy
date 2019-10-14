@@ -70,6 +70,18 @@ import TalMini from "./lebedka/TalMini";
 import TalRuchShest from "./lebedka/TalRuchShest";
 import TalRuchRich from "./lebedka/TalRuchRich";
 import ZaxvatKlipsa from "./lebedka/ZaxvatKlipsa";
+import frontstallazh from "./systamxran/frontstallazh";
+import nabiv from "./systamxran/nabiv";
+import consol from "./systamxran/consol";
+import mobile from "./systamxran/mobile";
+import special from "./systamxran/special";
+import samonesysh from "./systamxran/samonesysh";
+import zakaz from "./metall/zakaz";
+import StellazhPish from "./metall/StellazhPish";
+import stolPR from "./metall/stolPR";
+import verstak from "./metall/verstak";
+import telegaPish from "./metall/telegaPish";
+import vozdux from "./ventil/vozdux";
 
 export default [
 
@@ -85,6 +97,9 @@ export default [
     STF125, STFL100,STFY200, MKF350, SK125200, SGR500, kg3500, torgov,
     DSP300,DSP400,
 
+    //systemxran
+    frontstallazh,nabiv,consol,mobile,special,samonesysh,
+
     //telega
     AS25,KorDlinVilka, THR, AC3,JF1000,CW25,platform, SHTABgidr,
     electroSHTAb,samoxod,
@@ -97,7 +112,11 @@ export default [
     MTM,CHW,WH,WhLenta,VS,AHW,P_LE,KDJ,gusek,zaxvatMagn,zaxvatGorVert,
     ElTalPA,TalMini,TalRuchShest,TalRuchRich,ZaxvatKlipsa,
 
-    //systemxran
+    //metall
+    zakaz,StellazhPish,telegaPish,stolPR,verstak,
+
+    //ventil
+    vozdux,
 
 
 ]
