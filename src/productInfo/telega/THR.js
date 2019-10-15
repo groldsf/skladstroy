@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['telega', 'all']),
-    src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
+    src: "pics/products/telega/THR.jpeg", //пикчи запихнуть
     name: "Гидравлическая тележка для рулонов TH-R",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
