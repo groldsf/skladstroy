@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['lebedka', 'all']),
-    src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
+    src: "pics/products/lebedka/talSHest.jpeg", //пикчи запихнуть
     name: "Тали ручные шестеренные (стационарные)",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +

@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['domkrat', 'all']),
-    src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
+    src: "pics/products/domkrat/lapa.jpg", //пикчи запихнуть
     name: "Домкрат гидравлический с лапой",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +

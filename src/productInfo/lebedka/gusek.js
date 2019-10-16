@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['lebedka', 'all']),
-    src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
+    src: "pics/products/lebedka/gusek.png", //пикчи запихнуть
     name: 'Кран гидравлический гаражный "Гусек" складной',
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +

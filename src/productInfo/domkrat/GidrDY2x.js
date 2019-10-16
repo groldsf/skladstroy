@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['domkrat', 'all']),
-    src: "pics/products/kolesa/kolesaPnevm.jpeg", //пикчи запихнуть
+    src: "pics/products/domkrat/DY2.jpg", //пикчи запихнуть
     name: "Домкрат гидравлический ДУ двусторонний (выносной насос)",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
