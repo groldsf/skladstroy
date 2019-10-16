@@ -2,14 +2,19 @@
     <div class="size">
         <h1>{{type.name}} {{type.id}}</h1>  <!-- названия секций товаров-->
            <!--<h2>{{subtype.name}}</h2>-->
-        <NavButtons :prop-tag="selectTag"/> <!--кнопки выбора товаров-->
-                 {{selectTag.name}}
-        <div class="catalog-list">
-            <div class="azaz">
-                <ProductLink v-for="index in selectProducts" :key="index.id" :product-name="index.id"></ProductLink>
-            </div>
-        </div>
-
+        {{selectTag.name}}
+        <v-row style="background-color: chartreuse">
+            <v-col cols="3" style="background-color: red">
+                <NavButtons :prop-tag="selectTag"/> <!--кнопки выбора товаров-->
+            </v-col>
+            <v-col style="background-color: aqua">
+                <div class="catalog-list">
+                    <div class="azaz">
+                        <ProductLink v-for="index in selectProducts" :key="index.id" :product-name="index.id"></ProductLink>
+                    </div>
+                </div>
+            </v-col>
+        </v-row>
     </div>
 </template>
 
@@ -61,7 +66,6 @@
         list-style: none;
         margin: 0 auto;
         align-content: center;
-
         text-align: center;
         width: 99%;
 
@@ -76,10 +80,6 @@
         margin: 0 auto;
         display: inline-flex;
         flex-wrap: wrap;
-
-
-
-
     }
 
 </style>

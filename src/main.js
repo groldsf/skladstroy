@@ -7,6 +7,7 @@ import ContentNoBTN from "@/components/ContentNoBTN";
 import Product from "@/components/Product";
 import mainPage from "@/components/mainPage";
 import vuetify from './plugins/vuetify';
+import TestPolygon from "@/TestPolygon";
 
 Vue.config.productionTip = false
 Vue.use(VueRouter)
@@ -22,13 +23,16 @@ const routes = [
     // { path: '/sklad-oborud/domkrat', component:mainContent, props:{type:types[0] , }},
     // { path: '/metall-construct', component:mainContent, props:{type:types[1]}},
     // {path: '/ventellation',component:mainContent, props:{type:types[2]}},
-    {path: '/about',component:ContentNoBTN, props:{type:types[1] }},
-    {path: '/contacts',component:ContentNoBTN, props:{type:types[2]}},
+    { path: '/about',component:ContentNoBTN, props:{type:types[1] }},
+    { path: '/contacts',component:ContentNoBTN, props:{type:types[2]}},
     { path: '/product/:id', component:Product, props:true},
     { path: '/', name: 'homePage', component:mainPage, },
 
 
-    {path:'/*',redirect:{name:'homePage'}}
+    { path: '/test', component:TestPolygon, },
+
+
+    { path:'/*',redirect:{name:'homePage'}}
 ]
 
 
