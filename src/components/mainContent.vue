@@ -68,14 +68,14 @@
         margin: 0 auto;
         align-content: center;
         text-align: center;
-        width: 99%;
+
 
     }
     img{
-    max-height: 300px
+        /*max-height: 300px;*/
     }
     a {
-    text-decoration: none
+        text-decoration: none
     }
 
 </style>
