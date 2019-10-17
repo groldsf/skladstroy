@@ -7,11 +7,18 @@
             </section>
             <section class="pluxi">
                 <v-row >
-
-                       <v-col>    <h3>БЕЗОПАСНОСТЬ</h3> <i class="fa fa-shield fa-5x" aria-hidden="true"></i> </v-col>
-                        <v-col>    <h3>НИЗКИЕ ЦЕНЫ</h3> <i class="fa fa-arrow-down fa-5x" aria-hidden="true"></i> </v-col>
-                        <v-col>   <h3>ДОЛГОВЕЧНОСТЬ</h3> <i class="fa fa-university fa-5x" aria-hidden="true"></i> </v-col>
-
+                    <v-col>
+                        <h3>БЕЗОПАСНОСТЬ</h3>
+                        <i class="fa fa-shield fa-5x" aria-hidden="true"></i>
+                    </v-col>
+                    <v-col>
+                        <h3>НИЗКИЕ ЦЕНЫ</h3>
+                        <i class="fa fa-arrow-down fa-5x" aria-hidden="true"></i>
+                    </v-col>
+                    <v-col>
+                        <h3>ДОЛГОВЕЧНОСТЬ</h3>
+                        <i class="fa fa-university fa-5x" aria-hidden="true"></i>
+                    </v-col>
                 </v-row>
             </section>
 
