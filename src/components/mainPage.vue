@@ -7,11 +7,18 @@
             </section>
             <section class="pluxi">
                 <v-row >
-
-                       <v-col>    <h3>БЕЗОПАСНОСТЬ</h3> <i class="fa fa-shield fa-5x" aria-hidden="true"></i> </v-col>
-                        <v-col>    <h3>НИЗКИЕ ЦЕНЫ</h3> <i class="fa fa-arrow-down fa-5x" aria-hidden="true"></i> </v-col>
-                        <v-col>   <h3>ДОЛГОВЕЧНОСТЬ</h3> <i class="fa fa-university fa-5x" aria-hidden="true"></i> </v-col>
-
+                    <v-col>
+                        <h3>БЕЗОПАСНОСТЬ</h3>
+                        <i class="fa fa-shield fa-5x" aria-hidden="true"></i>
+                    </v-col>
+                    <v-col>
+                        <h3>НИЗКИЕ ЦЕНЫ</h3>
+                        <i class="fa fa-arrow-down fa-5x" aria-hidden="true"></i>
+                    </v-col>
+                    <v-col>
+                        <h3>ДОЛГОВЕЧНОСТЬ</h3>
+                        <i class="fa fa-university fa-5x" aria-hidden="true"></i>
+                    </v-col>
                 </v-row>
             </section>
 
@@ -38,16 +45,14 @@
                         Услуги по монтажу, демонтажу и ремонту стеллажей. <br>
                         Наши менеджеры готовы помочь вам  <br>в процессе выбора любую необходимую помощь и консультации.
                     </p>
-
-
                 </section>
                 <section class="contacKt">
                     <p>
-                    <ul class="inform-list">
-                        <li>Качество</li>
-                        <li>Профессионализм</li>
-                        <li>Низкие цены</li>
-                    </ul>
+                        <ul class="inform-list">
+                            <li>Качество</li>
+                            <li>Профессионализм</li>
+                            <li>Низкие цены</li>
+                        </ul>
                     </p>
                     <p>
                         Позвоните <a href="tel:+79192334380"> +7-919-233-43-80</a> и наш менеджер Вас проконсультирует!
