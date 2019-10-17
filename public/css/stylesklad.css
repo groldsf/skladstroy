@@ -29,10 +29,7 @@ body {
   width: 1100px;
   margin: 0 auto;
 }
-.inner-wrap{
-  width: 1050px;
-  margin: 0 auto;
-}
+
 .inner-nav{
   display: flex;
 }

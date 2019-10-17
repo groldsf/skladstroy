@@ -3,15 +3,15 @@
         <h1>{{type.name}} {{type.id}}</h1>  <!-- названия секций товаров-->
            <!--<h2>{{subtype.name}}</h2>-->
         {{selectTag.name}}
-        <v-row style="background-color: chartreuse">
-            <v-col cols="3" style="background-color: red">
+        <v-row>
+            <v-col cols="3" >
                 <NavButtons :prop-tag="selectTag"/> <!--кнопки выбора товаров-->
             </v-col>
             <v-col style="background-color: aqua">
                 <div class="catalog-list">
-                    <div class="azaz">
+                    <v-row>
                         <ProductLink v-for="index in selectProducts" :key="index.id" :product-name="index.id"></ProductLink>
-                    </div>
+                    </v-row>
                 </div>
             </v-col>
         </v-row>
@@ -58,6 +58,7 @@
 </script>
 
 <style scoped>
+
     h1  {
     text-align: center;
     }
@@ -75,11 +76,6 @@
     }
     a {
     text-decoration: none
-    }
-    .azaz{
-        margin: 0 auto;
-        display: inline-flex;
-        flex-wrap: wrap;
     }
 
 </style>

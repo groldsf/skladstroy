@@ -1,22 +1,24 @@
 <template>
     <div class="buttons">               <!-- кнопки выбора товаров-->
-        <ul class="navigation-list">
-<!--            <v-btn>213</v-btn>-->
-            <li> <v-btn @click="selectTag.name='all'"> Все товары</v-btn></li>
-            <li> <v-btn @click="selectTag.name='kolesa'" > Колесные опоры </v-btn> </li>
-            <li> <v-btn @click="selectTag.name='stellazh'" > Стеллажи </v-btn>  </li>
-            <li>
-                <v-btn @click="selectTag.name='systemxran'" >
+        <v-btn-toggle mandatory>
+            <ul class="navigation-list">
+                <!--            <v-btn>213</v-btn>-->
+                <li> <v-btn @click="selectTag.name='all'"> Все товары</v-btn></li>
+                <li> <v-btn @click="selectTag.name='kolesa'" > Колесные опоры </v-btn> </li>
+                <li> <v-btn @click="selectTag.name='stellazh'" > Стеллажи </v-btn>  </li>
+                <li>
+                    <v-btn @click="selectTag.name='systemxran'" >
                         Стеллажные системы хранения
-                </v-btn>
-            </li>
-            <li> <v-btn @click="selectTag.name='mebel'" > Металлическая мебель </v-btn> </li>
-            <li> <v-btn @click="selectTag.name='telega'" > Тележки и Штабелеры</v-btn>  </li>
-            <li> <v-btn @click="selectTag.name='domkrat'" > Домкраты</v-btn>  </li>
-            <li> <v-btn @click="selectTag.name='lebedka'" > Лебедки и краны</v-btn>  </li>
-            <li> <v-btn @click="selectTag.name='metall'" > Металлоконструкции</v-btn>  </li>
-            <li> <v-btn @click="selectTag.name='ventil'" > Вентиляция </v-btn> </li>
-        </ul>
+                    </v-btn>
+                </li>
+                <li> <v-btn @click="selectTag.name='mebel'" > Металлическая мебель </v-btn> </li>
+                <li> <v-btn @click="selectTag.name='telega'" > Тележки и Штабелеры</v-btn>  </li>
+                <li> <v-btn @click="selectTag.name='domkrat'" > Домкраты</v-btn>  </li>
+                <li> <v-btn @click="selectTag.name='lebedka'" > Лебедки и краны</v-btn>  </li>
+                <li> <v-btn @click="selectTag.name='metall'" > Металлоконструкции</v-btn>  </li>
+                <li> <v-btn @click="selectTag.name='ventil'" > Вентиляция </v-btn> </li>
+            </ul>
+        </v-btn-toggle>
     </div>
 </template>
 

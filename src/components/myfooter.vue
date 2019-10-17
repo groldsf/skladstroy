@@ -1,5 +1,6 @@
 <template>
-    <v-footer dark padless app>
+    <v-footer dark padless>
+<!--              app>-->
 
         <div class="footer123">
             <div class="cross-line"/>

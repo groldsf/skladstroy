@@ -1,10 +1,12 @@
 <template>
-    <router-link :to="{ path: '/product/'+productName}">
-       <div class="itemList">
-           <img :src="targetProduct.src" alt="">
-            <p> {{targetProduct.name}}</p>
-       </div>
-    </router-link>
+    <v-col cols="4" class="itemList">
+        <router-link :to="{ path: '/product/'+productName}">
+            <div>
+                <img :src="targetProduct.src" alt="">
+                <p> {{targetProduct.name}}</p>
+            </div>
+        </router-link>
+    </v-col>
 </template>
 
 <script>
@@ -26,13 +28,19 @@
 </script>
 
 <style scoped>
-.itemList{
-    margin:0 auto;
-    /*padding-right:20px ;*/
-    width: 270px;
 
+.itemList{
+    /*margin:0 auto;*/
+    /*padding-right:20px ;*/
+    /*width: 270px;*/
+    background-color: chartreuse;
 }
-.itemList img{height: 250px;}
+.itemList img{
+    /*width: 250px;*/
+    /*width: 100%;*/
+    max-width: 100%;
+    max-height: 250px;
+}
 a{
         text-decoration: none;
         color:white;
