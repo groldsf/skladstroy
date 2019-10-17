@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['lebedka', 'all']),
-    src: "pics/products/lebedka/whLenta.jpeg", //пикчи запихнуть
+    src: "pics/products/lebedka/whLenta.jpg", //пикчи запихнуть
     name: "Лебедки барабанные WH (лента)",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +

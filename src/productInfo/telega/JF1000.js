@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['telega', 'all']),
-    src: "pics/products/telega/JF1000.jpeg", //пикчи запихнуть
+    src: "pics/products/telega/JF1000.jpg", //пикчи запихнуть
     name: "ТЕЛЕЖКА ГИДРАВЛИЧЕСКАЯ С НОЖНИЧНЫМ ПОДЪЕМОМ JF-1000",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +

@@ -1,6 +1,6 @@
 export default{
     tags: new Set(['lebedka', 'all']),
-    src: "pics/products/lebedka/barabTor.jpeg", //пикчи запихнуть
+    src: "pics/products/lebedka/barabTor.jpg", //пикчи запихнуть
     name: "Лебедки барабанные с автом.тормозом AHW",
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
