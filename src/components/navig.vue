@@ -5,7 +5,7 @@
                 <v-col sm="12" md="8" class="inner-wrap">
                     <v-btn-toggle mandatory >
                         <router-link :to="{name:'homePage'}" class="logo-link">
-                            <v-btn text>
+                            <v-btn tile text>
                                 <img src="pics/logo.svg" alt="LOGO" />
                             </v-btn>
                         </router-link>
@@ -16,17 +16,17 @@
                         <!--                            -->
                         <!--                        </ul>-->
                         <router-link to="/catalog">
-                            <v-btn text>
+                            <v-btn tile text>
                                 Каталог
                             </v-btn>
                         </router-link>
                         <router-link to="/about">
-                            <v-btn text>
+                            <v-btn tile text>
                                 О нас
                             </v-btn>
                         </router-link>
                         <router-link to="/contacts">
-                            <v-btn text>
+                            <v-btn tile text>
                                 Контакты
                             </v-btn>
                         </router-link>
