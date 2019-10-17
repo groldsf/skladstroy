@@ -5,7 +5,7 @@ export default{
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
         "\t\t\t\t<div>\n" +
-        "\t\t\t\t<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12px; background-color: #ffffff;\">Удобная и простая в обращении ручная лебедка, данная лебедка имеет широкий спектр использования, может использоваться для подтягивания различных грузов, для удержания грузов при перевозке на прицепах, грузоподъемность лебедки рассчитывается как 75% от тягового усилия. Лебедка не предназначена для удержания груза на высоте без дополнительного крепления груза.&nbsp;</span><strong style=\"font-family: arial, helvetica, sans-serif; font-size: 12px; background-color: #ffffff;\">Запрещается подъем и перемещение людей.</strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12px; background-color: #ffffff;\"></span></p>\n" +
+        "\t\t\t\t<p><span style=\"  font-size: 12px;  \">Удобная и простая в обращении ручная лебедка, данная лебедка имеет широкий спектр использования, может использоваться для подтягивания различных грузов, для удержания грузов при перевозке на прицепах, грузоподъемность лебедки рассчитывается как 75% от тягового усилия. Лебедка не предназначена для удержания груза на высоте без дополнительного крепления груза.&nbsp;</span><strong style=\"  font-size: 12px;  \">Запрещается подъем и перемещение людей.</strong><span style=\"  font-size: 12px;  \"></span></p>\n" +
         "<table border=\"0\" style=\"height: 141px; width: 751px;\">\n" +
         "<tbody>\n" +
         "<tr>\n" +

@@ -5,7 +5,7 @@ export default{
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
         "\t\t\t\t<div>\n" +
-        "\t\t\t\t<p><span style=\"font-family: verdana, geneva, sans-serif; font-size: 12px; background-color: #ffffff;\">Используется для натяжения линий электропередач, антенных фидеров, установки радиомачт, а так же для подтягивания грузов или оборудования при проведении монтажных, демонтажных, строительных и других работах.&nbsp;</span></p>\n" +
+        "\t\t\t\t<p><span style=\"  font-size: 12px;  \">Используется для натяжения линий электропередач, антенных фидеров, установки радиомачт, а так же для подтягивания грузов или оборудования при проведении монтажных, демонтажных, строительных и других работах.&nbsp;</span></p>\n" +
         "<p>&nbsp;</p>\n" +
         "<table border=\"0\" style=\"height: 81px; margin-left: auto; margin-right: auto; width: 714px;\">\n" +
         "<tbody>\n" +

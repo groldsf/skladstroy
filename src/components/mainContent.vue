@@ -4,7 +4,7 @@
            <!--<h2>{{subtype.name}}</h2>-->
         {{selectTag.name}}
         <v-row>
-            <v-col cols="3" >
+            <v-col cols="3"  style="background-color: white" >
                 <NavButtons :prop-tag="selectTag"/> <!--кнопки выбора товаров-->
             </v-col>
             <v-col style="background-color: aqua">

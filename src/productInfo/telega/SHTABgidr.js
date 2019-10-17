@@ -5,7 +5,7 @@ export default{
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
         "\t\t\t\t<div>\n" +
-        "\t\t\t\t<div class=\"categoryIntroText\" style=\"text-align: justify; margin-bottom: 1em; color: #555555; font-family: Arial, Helvetica, sans-serif; font-size: 12.8px; line-height: 19.2px; background-color: #ffffff;\">\n" +
+        "\t\t\t\t<div class=\"categoryIntroText\" style=\"text-align: justify; margin-bottom: 1em; color: #555555;   font-size: 12.8px; line-height: 19.2px;  \">\n" +
         "<p style=\"margin: 5px 0px 10px; padding: 0px;\">Ручной штабелер – экономичное складское оборудование, предназначенное&nbsp; для укладки паллетированных грузов на стеллажные полки или&nbsp;друг на друга. Поднятие тяжелых грузов облегчается за счет использования гидравлического подъемного механизма, который приводится в действие с помощью&nbsp; рукояти или педали. Перемещать штабелер гидравлический&nbsp; необходимо вручную, поэтому работа с ним требует применения физической силы со стороны оператора. Главное преимущество, которым может похвастаться штабелер ручной – цена.&nbsp; Она существенно ниже, чем на модели, оснащенные электроприводом.</p>\n" +
         "<p style=\"margin: 10px 0px 5px; padding: 0px;\">Компания «Склад-Строй» предлагает вам ручные штабелеры, способные поднимать грузы массой&nbsp; от 500 кг до 2000 кг и на высоту от 1,6 м до 3 м.&nbsp; Это очень качественное, надежное оборудование, не нуждающееся в электроэнергии и техническом обслуживании.</p>\n" +
         "<table border=\"0\" style=\"height: 161px; width: 924px;\">\n" +
@@ -89,8 +89,8 @@ export default{
         "</table>\n" +
         "<p style=\"margin: 10px 0px 5px; padding: 0px;\">&nbsp;</p>\n" +
         "</div>\n" +
-        "<div class=\"itemListCategoriesBlock\" style=\"color: #555555; font-family: Arial, Helvetica, sans-serif; font-size: 12.8px; line-height: 19.2px; background-color: #ffffff;\">&nbsp;</div>\n" +
-        "<div class=\"itemList\" style=\"color: #555555; font-family: Arial, Helvetica, sans-serif; font-size: 12.8px; line-height: 19.2px; background-color: #ffffff;\">&nbsp;</div>\t\t\t\t</div>\n" +
+        "<div class=\"itemListCategoriesBlock\" style=\"color: #555555;   font-size: 12.8px; line-height: 19.2px;  \">&nbsp;</div>\n" +
+        "<div class=\"itemList\" style=\"color: #555555;   font-size: 12.8px; line-height: 19.2px;  \">&nbsp;</div>\t\t\t\t</div>\n" +
         "\t\t\t</div>\n" +
         "\t\t\t<div class=\"btp-detail-extrafields\">\n" +
         "\t\t\t\t\t\t\t</div>\n" +

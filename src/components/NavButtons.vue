@@ -46,7 +46,7 @@
         margin-bottom: 16px!important;
         font: inherit;
         /*color: white;*/
-        /*background-color: #000000;*/
+        /*background- */
         /*border: none;*/
         text-align: center;
         vertical-align: middle;

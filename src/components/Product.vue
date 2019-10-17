@@ -1,7 +1,7 @@
 <template>
     <div class="wrap">
         <p>this is {{description[id].name}}</p>
-        <ImgBlock></ImgBlock>
+        <ImgBlock :image="description[id].src"></ImgBlock>
         <TextBlock :text="description[id].html"></TextBlock>
 
     </div>
@@ -25,7 +25,7 @@
 </script>
 
 <style scoped>
-
+.TextBlock{color: white!important;}
 .wrap {
     background-color: black;
 

@@ -6,12 +6,13 @@
                 <img src="pics/logo-big.svg" alt="ЛОГО" />
             </section>
             <section class="pluxi">
-                <ul class="pluxi-list">
-                    <li class="pluxi-item"><h3>БЕЗОПАСНОСТЬ</h3>
-                        <i class="fa fa-shield fa-5x" aria-hidden="true"></i></li>
-                    <li class="pluxi-item"><h3>НИЗКИЕ ЦЕНЫ</h3> <i class="fa fa-arrow-down fa-5x" aria-hidden="true"></i></li>
-                    <li class="pluxi-item"><h3>ДОЛГОВЕЧНОСТЬ</h3> <i class="fa fa-university fa-5x" aria-hidden="true"></i></li>
-                </ul>
+                <v-row >
+
+                       <v-col>    <h3>БЕЗОПАСНОСТЬ</h3> <i class="fa fa-shield fa-5x" aria-hidden="true"></i> </v-col>
+                        <v-col>    <h3>НИЗКИЕ ЦЕНЫ</h3> <i class="fa fa-arrow-down fa-5x" aria-hidden="true"></i> </v-col>
+                        <v-col>   <h3>ДОЛГОВЕЧНОСТЬ</h3> <i class="fa fa-university fa-5x" aria-hidden="true"></i> </v-col>
+
+                </v-row>
             </section>
 
 
@@ -30,25 +31,27 @@
 
             <div class="collums">
 
-                <section class="info" id="about">
+                <section class="inform" id="about">
                     <h3>О нас</h3>
                     <p>
                         Предлагаем широкий ассортимент стеллажей, <br> комплектующих и другого складского оборудования. <br>
                         Услуги по монтажу, демонтажу и ремонту стеллажей. <br>
                         Наши менеджеры готовы помочь вам  <br>в процессе выбора любую необходимую помощь и консультации.
                     </p>
-                    <ul class="info-list">
+
+
+                </section>
+                <section class="contacKt">
+                    <p>
+                    <ul class="inform-list">
                         <li>Качество</li>
                         <li>Профессионализм</li>
                         <li>Низкие цены</li>
                     </ul>
+                    </p>
                     <p>
                         Позвоните <a href="tel:+79192334380"> +7-919-233-43-80</a> и наш менеджер Вас проконсультирует!
                     </p>
-                </section>
-                <section class="contact">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9897.263048345561!2d39.200049!3d51.672363!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6e21e22268caf28f!2sSklad-Stroy!5e0!3m2!1sen!2sru!4v1568563460722!5m2!1sen!2sru"
-                            width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                 </section>
             </div>
         </main>
@@ -62,5 +65,7 @@
 </script>
 
 <style scoped>
-
+ul{padding: 0px!important;}
+/*.pluxi-list{margin: 0 auto}*/
+.col{text-align: center}
 </style>

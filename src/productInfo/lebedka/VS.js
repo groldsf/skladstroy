@@ -5,7 +5,7 @@ export default{
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
         "\t\t\t\t<div>\n" +
-        "\t\t\t\t<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12px; background-color: #ffffff;\">Удобная и простая в обращении ручная лебедка, данная лебедка имеет широкий спектр использования.&nbsp;</span></p>\n" +
+        "\t\t\t\t<p><span style=\"  font-size: 12px;  \">Удобная и простая в обращении ручная лебедка, данная лебедка имеет широкий спектр использования.&nbsp;</span></p>\n" +
         "<p>&nbsp;</p>\n" +
         "<table border=\"0\" style=\"height: 141px; width: 822px;\">\n" +
         "<tbody>\n" +

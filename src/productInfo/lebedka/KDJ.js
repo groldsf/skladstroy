@@ -5,7 +5,7 @@ export default{
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
         "\t\t\t\t<div>\n" +
-        "\t\t\t\t<div style=\"margin: 0px; padding: 0px; width: 904px; float: left; min-height: 600px; font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 13px; background-color: #ffffff;\">\n" +
+        "\t\t\t\t<div style=\"margin: 0px; padding: 0px; width: 904px; float: left; min-height: 600px;   font-size: 13px;  \">\n" +
         "<p style=\"margin: 10px 0px 6px; padding: 0px; text-align: justify; color: #515151;\">Электрические лебедки имеют широкий спектр применения: ремонтные и строительно-монтажные работы, комплектация подъемников, подъем и перемещение грузов. Большое разнообразие моделей позволяет подобрать электрическую лебедку по основным параметрам: тяговое усилие, скорость подъема, напряжение и канатоемкость.</p>\n" +
         "<div>&nbsp;\n" +
         "<table border=\"0\" style=\"height: 301px; width: 946px;\">\n" +

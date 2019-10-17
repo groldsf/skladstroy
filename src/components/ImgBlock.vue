@@ -1,10 +1,16 @@
 <template>
-    <p>тут будут пикчи</p>
+    <div>
+        <div >
+            <img :src="image" alt="">
+        </div>
+
+    </div>
 </template>
 
 <script>
     export default {
-        name: "ImgBlock"
+        name: "ImgBlock",
+        props: ["image"]
     }
 
 </script>

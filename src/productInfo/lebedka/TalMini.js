@@ -8,10 +8,10 @@ export default{
         "\t\t\t\t<table border=\"0\" style=\"height: 241px; width: 721px;\">\n" +
         "<tbody>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><span style=\"background-color: #ff9900;\"><strong><span style=\"font-size: 12pt;\">Модель</span></strong></span></td>\n" +
-        "<td style=\"text-align: center;\"><span style=\"background-color: #ff9900;\"><strong><span style=\"font-size: 12pt;\">Питание, V</span></strong></span></td>\n" +
-        "<td style=\"text-align: center;\"><span style=\"background-color: #ff9900;\"><strong><span style=\"font-size: 12pt;\">Т/У, кг</span></strong></span></td>\n" +
-        "<td style=\"text-align: center;\"><span style=\"background-color: #ff9900;\"><strong><span style=\"font-size: 12pt;\">В/п</span></strong></span></td>\n" +
+        "<td style=\"text-align: center;\"><span style=\"background- \"><strong><span style=\"font-size: 12pt;\">Модель</span></strong></span></td>\n" +
+        "<td style=\"text-align: center;\"><span style=\"background- \"><strong><span style=\"font-size: 12pt;\">Питание, V</span></strong></span></td>\n" +
+        "<td style=\"text-align: center;\"><span style=\"background- \"><strong><span style=\"font-size: 12pt;\">Т/У, кг</span></strong></span></td>\n" +
+        "<td style=\"text-align: center;\"><span style=\"background- \"><strong><span style=\"font-size: 12pt;\">В/п</span></strong></span></td>\n" +
         "</tr>\n" +
         "<tr>\n" +
         "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">KX-250</span></strong></td>\n" +
