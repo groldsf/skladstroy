@@ -24,6 +24,11 @@
 
 
             <section class="catalog">
+
+                </div>
+
+
+
 <!--                <div class="wrap-catalog">-->
 <!--                    <ul class="catalog-list">-->
 <!--                        <li class="catalog-item" ><a href="sklad-oborud/kolesa.html"><img src="pics/kolesa.jpg" alt="КОЛЕСНЫЕ ОПОРЫ" /></a></li>-->
@@ -42,17 +47,17 @@
                     <h3>О нас</h3>
                     <p>
                         Предлагаем широкий ассортимент стеллажей, <br> комплектующих и другого складского оборудования. <br>
-                        Услуги по монтажу, демонтажу и ремонту стеллажей. <br>
-                        Наши менеджеры готовы помочь вам  <br>в процессе выбора любую необходимую помощь и консультации.
+                        Услуги по монтажу, демонтажу, ремонту стеллажей <br>
+                        и изготовлению металлических конструкций на заказ.
+
+
                     </p>
                 </section>
-                <section class="contacKt">
+                <section class="inform-right">
+
                     <p>
-                        <ul class="inform-list">
-                            <li>Качество</li>
-                            <li>Профессионализм</li>
-                            <li>Низкие цены</li>
-                        </ul>
+                        Наши менеджеры готовы помочь вам  <br>в процессе выбора и оказать <br>
+                        любую необходимую помощь и консультации.
                     </p>
                     <p>
                         Позвоните <a href="tel:+79192334380"> +7-919-233-43-80</a> и наш менеджер Вас проконсультирует!
@@ -73,4 +78,8 @@
 ul{padding: 0px!important;}
 /*.pluxi-list{margin: 0 auto}*/
 .col{text-align: center}
+    .inform{padding-top: 20px; margin-right: 10px}
+    .inform-right{padding-top: 46px; padding-left: 10px;
+    }
+
 </style>

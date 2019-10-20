@@ -1,7 +1,7 @@
 <template>
     <div class="wrap">
         <p>this is {{description[id].name}}</p>
-        <ImgBlock :image="description[id].src"></ImgBlock>
+        <ImgBlock :image="description[id].src"  class="imageSize"></ImgBlock>
         <TextBlock :text="description[id].html"></TextBlock>
 
     </div>
@@ -31,4 +31,5 @@
 
 }
 table  {  border: 3px solid white }
+
 </style>
