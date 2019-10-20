@@ -25,7 +25,7 @@
 
             <section class="catalog">
 
-                </div>
+
 
 
 
