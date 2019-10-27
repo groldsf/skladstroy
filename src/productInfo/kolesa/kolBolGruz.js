@@ -11,7 +11,7 @@ export default {
         "<table border=\"0\"  cellspacing=\"0\" cellpadding=\"0\">\n" +
         "<tbody>\n" +
         "<tr>\n" +
-        "<td      border-left-style: solid; border-color: windowtext; border-width: 1pt;  width=\"79\"><span >Наименование</span></td>\n" +
+        "<td ><span >Наименование</span></td>\n" +
         "<td ><img src=\"/pics/01.jpg\" alt=\"01\" width=\"54\" height=\"82\"></td>\n" +
         "<td      >&nbsp;<img src=\"/pics/02.jpg\" alt=\"02\" width=\"50\" height=\"77\"></td>\n" +
         "<td       >&nbsp;<img src=\"/pics/00008.jpg\" alt=\"00008\" width=\"73\" height=\"77\"></td>\n" +
