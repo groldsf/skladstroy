@@ -131,7 +131,7 @@ export default {
         "<td >&nbsp;<img src=\"/pics/05.jpg\" alt=\"05\" width=\"44\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
         "</tr>\n" +
         "<tr style=\"height: 16.5pt;\">\n" +
-        "<td style=\"width: 126.25pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black;   ;  height: 16.5pt;\"   width=\"168\"><span >Ролик&nbsp;<span style=\"font-size: 13.3333330154419px; line-height: 19.0476188659668px;\">для гидравлической тележки</span></span></td>\n" +
+        "<td   ><span >Ролик&nbsp;<span style=\"font-size: 13.3333330154419px; line-height: 19.0476188659668px;\">для гидравлической тележки</span></span></td>\n" +
         "<td ><span >82</span></td>\n" +
         "<td ><span >60</span></td>\n" +
         "<td ><span >20</span></td>\n" +

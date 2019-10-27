@@ -13,15 +13,15 @@ export default {
         "<td>270</td>\n" +
         "<td     >100</td>\n" +
         "</tr>\n" +
-        "<tr class=\"even\" style=\"margin: 0px; padding: 0px; border: 0px;  \">\n" +
+        "<tr >\n" +
         "<td     >320</td>\n" +
         "<td    >125</td>\n" +
         "</tr>\n" +
-        "<tr style=\"margin: 0px; padding: 0px; border: 0px;\">\n" +
+        "<tr >\n" +
         "<td   >430</td>\n" +
         "<td    >160</td>\n" +
         "</tr>\n" +
-        "<tr class=\"even\" style=\"margin: 0px; padding: 0px; border: 0px;  \">\n" +
+        "<tr >\n" +
         "<td    >480</td>\n" +
         "<td    >200</td>\n" +
         "</tr>\n" +
