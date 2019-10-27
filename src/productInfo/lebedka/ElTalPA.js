@@ -8,88 +8,88 @@ export default{
         "\t\t\t\t<table border=\"0\" style=\"height: 281px; width: 682px;\">\n" +
         "<tbody>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">Модель</span></strong></td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">Питание, V</span></strong></td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">Т/У, кг</span></strong></td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">В/п</span></strong></td>\n" +
+        "<td  \"><strong><span >Модель</span></strong></td>\n" +
+        "<td  \"><strong><span >Питание, V</span></strong></td>\n" +
+        "<td  \"><strong><span >Т/У, кг</span></strong></td>\n" +
+        "<td  \"><strong><span >В/п</span></strong></td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">РА-100А</span></strong></td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">220</span></strong></td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">50/100</span></strong></td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">12/16</span></strong></td>\n" +
+        "<td  \"><strong><span >РА-100А</span></strong></td>\n" +
+        "<td  \"><strong><span >220</span></strong></td>\n" +
+        "<td  \"><strong><span >50/100</span></strong></td>\n" +
+        "<td  \"><strong><span >12/16</span></strong></td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">РА-250</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">125/250</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
+        "<td  \"><strong><span >РА-250</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
+        "<td  \"><strong><span >125/250</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">РА-500</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">250/500</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
+        "<td  \"><strong><span >РА-500</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
+        "<td  \"><strong><span >250/500</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">РА-1000</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">500/1000</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
+        "<td  \"><strong><span >РА-1000</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
+        "<td  \"><strong><span >500/1000</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">РА-1200</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">600/1200</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
+        "<td  \"><strong><span >РА-1200</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
+        "<td  \"><strong><span >600/1200</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">РА-250-18А</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">125/250</span></strong></td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">18/9</span></strong></td>\n" +
+        "<td  \"><strong><span >РА-250-18А</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
+        "<td  \"><strong><span >125/250</span></strong></td>\n" +
+        "<td  \"><strong><span >18/9</span></strong></td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">РА-500-18А</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">250/500</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
+        "<td  \"><strong><span >РА-500-18А</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
+        "<td  \"><strong><span >250/500</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">РА-1000-18А</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">500/1000</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
+        "<td  \"><strong><span >РА-1000-18А</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
+        "<td  \"><strong><span >500/1000</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">РА1200-18А</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">600/1200</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
+        "<td  \"><strong><span >РА1200-18А</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
+        "<td  \"><strong><span >600/1200</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">TD10 холостая</span></strong></td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">питание 220 v, г/п 1 т</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
+        "<td  \"><strong><span >TD10 холостая</span></strong></td>\n" +
+        "<td  \"><strong><span >питание 220 v, г/п 1 т</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
+        "<td  \">&nbsp;</td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">TD10 приводная</span></strong></td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">ширина полки 68-110 мм</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
+        "<td  \"><strong><span >TD10 приводная</span></strong></td>\n" +
+        "<td  \"><strong><span >ширина полки 68-110 мм</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
+        "<td  \">&nbsp;</td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">HST-600-750</span></strong></td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">макс.длина 1100 мм</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
+        "<td  \"><strong><span >HST-600-750</span></strong></td>\n" +
+        "<td  \"><strong><span >макс.длина 1100 мм</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
+        "<td  \">&nbsp;</td>\n" +
         "</tr>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">HST-300-1100</span></strong></td>\n" +
-        "<td style=\"text-align: center;\"><strong><span style=\"font-size: 12pt;\">макс.длина 750 мм</span></strong></td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
-        "<td style=\"text-align: center;\">&nbsp;</td>\n" +
+        "<td  \"><strong><span >HST-300-1100</span></strong></td>\n" +
+        "<td  \"><strong><span >макс.длина 750 мм</span></strong></td>\n" +
+        "<td  \">&nbsp;</td>\n" +
+        "<td  \">&nbsp;</td>\n" +
         "</tr>\n" +
         "</tbody>\n" +
         "</table>\t\t\t\t</div>\n" +

@@ -6,31 +6,31 @@ export default {
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
         "\t\t\t\t<div>\n" +
         "\t\t\t\t<p>Колеса для гидравлических тележек полиуретановые:</p>\n" +
-        "<table border=\"0\" style=\"width: 632px; border-collapse: collapse; height: 72px;\" cellspacing=\"0\" cellpadding=\"0\">\n" +
+        "<table border=\"0\"  cellspacing=\"0\" cellpadding=\"0\">\n" +
         "<tbody>\n" +
-        "<tr style=\"height: 18pt;\">\n" +
-        "<td style=\"width: 135.25pt; border-color: windowtext black; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"180\"><span style=\"font-size: 10pt;\">Колесо&nbsp;диск из алюминия, контактный слой полиуретан, шариковый подшипник:</span></td>\n" +
-        "<td style=\"width: 27pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"36\"><img src=\"/pics/01.jpg\" alt=\"01\" width=\"50\" height=\"76\" style=\"display: block; margin-left: auto; margin-right: auto;\"></td>\n" +
-        "<td style=\"width: 27pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"36\">&nbsp;<img src=\"/pics/02.jpg\" alt=\"02\" width=\"49\" height=\"75\"></td>\n" +
-        "<td style=\"width: 27pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"36\">&nbsp;<img src=\"/pics/03.jpg\" alt=\"03\" width=\"45\" height=\"70\"></td>\n" +
-        "<td style=\"width: 27pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"36\">&nbsp;<img src=\"/pics/004.jpg\" alt=\"004\" width=\"44\" height=\"77\"></td>\n" +
-        "<td style=\"width: 27pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"36\">&nbsp;<img src=\"/pics/05.jpg\" alt=\"05\" width=\"44\" height=\"75\"></td>\n" +
+        "<tr>\n" +
+        "<td ><span >Колесо&nbsp;диск из алюминия, контактный слой полиуретан, шариковый подшипник:</span></td>\n" +
+        "<td ><img src=\"/pics/01.jpg\" alt=\"01\" width=\"50\" height=\"76\" style=\"display: block; margin-left: auto; margin-right: auto;\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/02.jpg\" alt=\"02\" width=\"49\" height=\"75\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/03.jpg\" alt=\"03\" width=\"45\" height=\"70\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/004.jpg\" alt=\"004\" width=\"44\" height=\"77\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/05.jpg\" alt=\"05\" width=\"44\" height=\"75\"></td>\n" +
         "</tr>\n" +
         "<tr style=\"height: 18pt;\">\n" +
-        "<td style=\"width: 135.25pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"180\"><span style=\"font-size: 10pt;\">для гидравлической тележки</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">160</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">50</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">20</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">45</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">350</span></td>\n" +
+        "<td ><span >для гидравлической тележки</span></td>\n" +
+        "<td ><span >160</span></td>\n" +
+        "<td ><span >50</span></td>\n" +
+        "<td ><span >20</span></td>\n" +
+        "<td ><span >45</span></td>\n" +
+        "<td ><span >350</span></td>\n" +
         "</tr>\n" +
-        "<tr style=\"height: 18pt;\">\n" +
-        "<td style=\"width: 135.25pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"180\"><span style=\"font-size: 10pt;\">для гидравлической тележки</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">200</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">50</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">20</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">45</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">500</span></td>\n" +
+        "<tr >\n" +
+        "<td ><span >для гидравлической тележки</span></td>\n" +
+        "<td ><span >200</span></td>\n" +
+        "<td ><span >50</span></td>\n" +
+        "<td ><span >20</span></td>\n" +
+        "<td ><span >45</span></td>\n" +
+        "<td ><span >500</span></td>\n" +
         "</tr>\n" +
         "</tbody>\n" +
         "</table>\n" +
@@ -38,45 +38,45 @@ export default {
         "<p>&nbsp;Колеса для гидравлических тележек обрезиненные:</p>\n" +
         "<table border=\"0\" style=\"width: 635px; border-collapse: collapse; height: 234px;\" cellspacing=\"0\" cellpadding=\"0\">\n" +
         "<tbody>\n" +
-        "<tr style=\"height: 18pt;\">\n" +
-        "<td style=\"width: 161.7pt; border-color: windowtext black; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"216\"><span style=\"font-size: 10pt;\">Колесо&nbsp;диск из алюминия, контактный слой резина, шариковый подшипник:</span></td>\n" +
-        "<td style=\"width: 60.55pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"81\"><img src=\"/pics/01.jpg\" alt=\"01\" width=\"50\" height=\"76\" style=\"line-height: 15.7142858505249px; display: block; margin-right: auto;\"></td>\n" +
-        "<td style=\"width: 61.55pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"82\">&nbsp;<img src=\"/pics/02.jpg\" alt=\"02\" width=\"49\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
-        "<td style=\"width: 67.55pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"90\">&nbsp;<img src=\"/pics/03.jpg\" alt=\"03\" width=\"45\" height=\"70\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
-        "<td style=\"width: 55.55pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"74\">&nbsp;<img src=\"/pics/004.jpg\" alt=\"004\" width=\"44\" height=\"77\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
-        "<td style=\"width: 54.55pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"73\">&nbsp;<img src=\"/pics/05.jpg\" alt=\"05\" width=\"44\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
+        "<tr >\n" +
+        "<td >\n" +
+        "<td      ><img src=\"/pics/01.jpg\" alt=\"01\" width=\"50\" height=\"76\" style=\"line-height: 15.7142858505249px; display: block; margin-right: auto;\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/02.jpg\" alt=\"02\" width=\"49\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/03.jpg\" alt=\"03\" width=\"45\" height=\"70\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/004.jpg\" alt=\"004\" width=\"44\" height=\"77\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
+        "<td>&nbsp;<img src=\"/pics/05.jpg\" alt=\"05\" width=\"44\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
         "</tr>\n" +
         "<tr style=\"height: 18pt;\">\n" +
-        "<td style=\"width: 161.7pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"216\"><span style=\"font-size: 13.3333330154419px; line-height: 19.0476188659668px;\">для гидравлической тележки</span></td>\n" +
-        "<td style=\"width: 60.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"81\"><span style=\"font-size: 10pt;\">180</span></td>\n" +
-        "<td style=\"width: 61.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"82\"><span style=\"font-size: 10pt;\">50</span></td>\n" +
-        "<td style=\"width: 67.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"90\"><span style=\"font-size: 10pt;\">20</span></td>\n" +
-        "<td style=\"width: 55.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"74\"><span style=\"font-size: 10pt;\">45</span></td>\n" +
-        "<td style=\"width: 54.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"73\"><span style=\"font-size: 10pt;\">350</span></td>\n" +
+        "<td >для гидравлической тележки</span></td>\n" +
+        "<td    ><span >180</span></td>\n" +
+        "<td ><span >50</span></td>\n" +
+        "<td ><span >20</span></td>\n" +
+        "<td ><span >45</span></td>\n" +
+        "<td ><span >350</span></td>\n" +
         "</tr>\n" +
         "<tr style=\"height: 18pt;\">\n" +
-        "<td style=\"width: 161.7pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"216\"><span style=\"font-size: 13.3333330154419px; line-height: 19.0476188659668px;\">для гидравлической тележки</span></td>\n" +
-        "<td style=\"width: 60.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"81\"><span style=\"font-size: 10pt;\">180</span></td>\n" +
-        "<td style=\"width: 61.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"82\"><span style=\"font-size: 10pt;\">50</span></td>\n" +
-        "<td style=\"width: 67.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"90\"><span style=\"font-size: 10pt;\">20</span></td>\n" +
-        "<td style=\"width: 55.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"74\"><span style=\"font-size: 10pt;\">50</span></td>\n" +
-        "<td style=\"width: 54.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"73\"><span style=\"font-size: 10pt;\">350</span></td>\n" +
+        "<td>для гидравлической тележки</span></td>\n" +
+        "<td><span >180</span></td>\n" +
+        "<td ><span >50</span></td>\n" +
+        "<td><span >20</span></td>\n" +
+        "<td><span >50</span></td>\n" +
+        "<td ><span >350</span></td>\n" +
         "</tr>\n" +
         "<tr style=\"height: 18pt;\">\n" +
-        "<td style=\"width: 161.7pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"216\"><span style=\"font-size: 13.3333330154419px; line-height: 19.0476188659668px;\">для гидравлической тележки</span></td>\n" +
-        "<td style=\"width: 60.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"81\"><span style=\"font-size: 10pt;\">180</span></td>\n" +
-        "<td style=\"width: 61.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"82\"><span style=\"font-size: 10pt;\">50</span></td>\n" +
-        "<td style=\"width: 67.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"90\"><span style=\"font-size: 10pt;\">20</span></td>\n" +
-        "<td style=\"width: 55.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"74\"><span style=\"font-size: 10pt;\">60</span></td>\n" +
-        "<td style=\"width: 54.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"73\"><span style=\"font-size: 10pt;\">350</span></td>\n" +
+        "<td >для гидравлической тележки</span></td>\n" +
+        "<td ><span >180</span></td>\n" +
+        "<td ><span >50</span></td>\n" +
+        "<td ><span >20</span></td>\n" +
+        "<td ><span >60</span></td>\n" +
+        "<td ><span >350</span></td>\n" +
         "</tr>\n" +
-        "<tr style=\"height: 18pt;\">\n" +
-        "<td style=\"width: 161.7pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"216\"><span style=\"font-size: 13.3333330154419px; line-height: 19.0476188659668px;\">для гидравлической тележки</span></td>\n" +
-        "<td style=\"width: 60.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"81\"><span style=\"font-size: 10pt;\">200</span></td>\n" +
-        "<td style=\"width: 61.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"82\"><span style=\"font-size: 10pt;\">50</span></td>\n" +
-        "<td style=\"width: 67.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"90\"><span style=\"font-size: 10pt;\">20</span></td>\n" +
-        "<td style=\"width: 55.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"74\"><span style=\"font-size: 10pt;\">45</span></td>\n" +
-        "<td style=\"width: 54.55pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt; text-align: center;\" nowrap=\"nowrap\" width=\"73\"><span style=\"font-size: 10pt;\">500</span></td>\n" +
+        "<tr >\n" +
+        "<td  >для гидравлической тележки</span></td>\n" +
+        "<td ><span >200</span></td>\n" +
+        "<td ><span >50</span></td>\n" +
+        "<td><span >20</span></td>\n" +
+        "<td ><span >45</span></td>\n" +
+        "<td ><span >500</span></td>\n" +
         "</tr>\n" +
         "</tbody>\n" +
         "</table>\n" +
@@ -85,74 +85,74 @@ export default {
         "<table border=\"0\" style=\"width: 633px; border-collapse: collapse; height: 200px;\" cellspacing=\"0\" cellpadding=\"0\">\n" +
         "<tbody>\n" +
         "<tr style=\"height: 18pt;\">\n" +
-        "<td style=\"width: 117.25pt; border-color: windowtext black; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"156\"><span style=\"font-size: 10pt;\">Колесо&nbsp;диск из чугуна, контактный слой полиуретан, шариковый подшипник:</span></td>\n" +
-        "<td style=\"width: 36pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"48\"><img src=\"/pics/01.jpg\" alt=\"01\" width=\"50\" height=\"76\" style=\"line-height: 15.7142858505249px; display: block; margin-right: auto;\"></td>\n" +
-        "<td style=\"width: 27pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"36\">&nbsp;<img src=\"/pics/02.jpg\" alt=\"02\" width=\"49\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
-        "<td style=\"width: 36pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"48\">&nbsp;<img src=\"/pics/03.jpg\" alt=\"03\" width=\"45\" height=\"70\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
-        "<td style=\"width: 20.8pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"28\">&nbsp;<img src=\"/pics/004.jpg\" alt=\"004\" width=\"44\" height=\"77\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
-        "<td style=\"width: 25.8pt; border-right-style: solid; border-bottom-style: solid; border-top-color: windowtext; border-right-color: windowtext; border-bottom-color: windowtext; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; border-left-style: none; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"34\">&nbsp;<img src=\"/pics/05.jpg\" alt=\"05\" width=\"44\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
+        "<td ><span >Колесо&nbsp;диск из чугуна, контактный слой полиуретан, шариковый подшипник:</span></td>\n" +
+        "<td><img src=\"/pics/01.jpg\" alt=\"01\" width=\"50\" height=\"76\" style=\"line-height: 15.7142858505249px; display: block; margin-right: auto;\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/02.jpg\" alt=\"02\" width=\"49\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/03.jpg\" alt=\"03\" width=\"45\" height=\"70\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/004.jpg\" alt=\"004\" width=\"44\" height=\"77\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/05.jpg\" alt=\"05\" width=\"44\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
         "</tr>\n" +
         "<tr style=\"height: 18pt;\">\n" +
-        "<td style=\"width: 117.25pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"156\"><span style=\"font-size: 10pt;\">для гидравлической тележки</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">180</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">50</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">20</span></td>\n" +
-        "<td style=\"width: 20.8pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"28\"><span style=\"font-size: 10pt;\">50</span></td>\n" +
-        "<td style=\"width: 25.8pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"34\"><span style=\"font-size: 10pt;\">450</span></td>\n" +
+        "<td ><span >для гидравлической тележки</span></td>\n" +
+        "<td><span >180</span></td>\n" +
+        "<td ><span >50</span></td>\n" +
+        "<td ><span >20</span></td>\n" +
+        "<td><span >50</span></td>\n" +
+        "<td ><span >450</span></td>\n" +
         "</tr>\n" +
         "<tr style=\"height: 18pt;\">\n" +
-        "<td style=\"width: 117.25pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"156\"><span style=\"font-size: 10pt;\">для гидравлической тележки</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">200</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">50</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">20</span></td>\n" +
-        "<td style=\"width: 20.8pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"28\"><span style=\"font-size: 10pt;\">45</span></td>\n" +
-        "<td style=\"width: 25.8pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"34\"><span style=\"font-size: 10pt;\">450</span></td>\n" +
+        "<td ><span >для гидравлической тележки</span></td>\n" +
+        "<td ><span >200</span></td>\n" +
+        "<td ><span >50</span></td>\n" +
+        "<td><span >20</span></td>\n" +
+        "<td><span >45</span></td>\n" +
+        "<td><span >450</span></td>\n" +
         "</tr>\n" +
-        "<tr style=\"height: 18pt;\">\n" +
-        "<td style=\"width: 117.25pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"156\"><span style=\"font-size: 10pt;\">для гидравлической тележки</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">200</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">50</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">20</span></td>\n" +
-        "<td style=\"width: 20.8pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"28\"><span style=\"font-size: 10pt;\">50</span></td>\n" +
-        "<td style=\"width: 25.8pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; padding: 0cm 5.4pt; height: 18pt;\" nowrap=\"nowrap\" width=\"34\"><span style=\"font-size: 10pt;\">500</span></td>\n" +
+        "<tr >\n" +
+        "<td  ><span >для гидравлической тележки</span></td>\n" +
+        "<td><span >200</span></td>\n" +
+        "<td><span >50</span></td>\n" +
+        "<td><span >20</span></td>\n" +
+        "<td><span >50</span></td>\n" +
+        "<td ><span >500</span></td>\n" +
         "</tr>\n" +
         "</tbody>\n" +
         "</table>\n" +
         "<p>&nbsp;</p>\n" +
-        "<p>&nbsp;&nbsp;<span style=\"font-size: 13.3333330154419px; line-height: 19.0476188659668px;\">Ролики для гидравлических тележек: полиамид, полиамид/полиуретан, сталь/полиуретан:</span></p>\n" +
+        "<p>&nbsp;&nbsp;<span>Ролики для гидравлических тележек: полиамид, полиамид/полиуретан, сталь/полиуретан:</span></p>\n" +
         "<table border=\"0\" style=\"width: 636px; border-collapse: collapse; height: 121px;\" cellspacing=\"0\" cellpadding=\"0\">\n" +
         "<tbody>\n" +
-        "<tr style=\"height: 16.5pt;\">\n" +
-        "<td style=\"width: 126.25pt; border-color: windowtext black; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt;\" nowrap=\"nowrap\" width=\"168\"><span style=\"font-size: 10pt;\">Ролики для гидравлических тележек</span></td>\n" +
-        "<td style=\"width: 36pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt;\" nowrap=\"nowrap\" width=\"48\"><img src=\"/pics/01.jpg\" alt=\"01\" width=\"50\" height=\"76\" style=\"line-height: 15.7142858505249px; display: block; margin-right: auto;\"></td>\n" +
-        "<td style=\"width: 36pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt;\" nowrap=\"nowrap\" width=\"48\">&nbsp;<img src=\"/pics/02.jpg\" alt=\"02\" width=\"49\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
-        "<td style=\"width: 27pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt;\" nowrap=\"nowrap\" width=\"36\">&nbsp;<img src=\"/pics/03.jpg\" alt=\"03\" width=\"45\" height=\"70\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
-        "<td style=\"width: 36pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt;\" nowrap=\"nowrap\" width=\"48\">&nbsp;<img src=\"/pics/004.jpg\" alt=\"004\" width=\"44\" height=\"77\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
-        "<td style=\"width: 36pt; border-top-color: windowtext; border-top-width: 1pt; border-left-style: none; border-bottom-style: solid; border-bottom-color: windowtext; border-bottom-width: 1pt; border-right-style: solid; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt;\" nowrap=\"nowrap\" width=\"48\">&nbsp;<img src=\"/pics/05.jpg\" alt=\"05\" width=\"44\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
+        "<tr >\n" +
+        "<td ><span >Ролики для гидравлических тележек</span></td>\n" +
+        "<td><img src=\"/pics/01.jpg\" alt=\"01\" width=\"50\" height=\"76\" style=\"line-height: 15.7142858505249px; display: block; margin-right: auto;\"></td>\n" +
+        "<td>&nbsp;<img src=\"/pics/02.jpg\" alt=\"02\" width=\"49\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/03.jpg\" alt=\"03\" width=\"45\" height=\"70\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/004.jpg\" alt=\"004\" width=\"44\" height=\"77\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
+        "<td >&nbsp;<img src=\"/pics/05.jpg\" alt=\"05\" width=\"44\" height=\"75\" style=\"line-height: 15.7142858505249px;\"></td>\n" +
         "</tr>\n" +
         "<tr style=\"height: 16.5pt;\">\n" +
-        "<td style=\"width: 126.25pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt;\" nowrap=\"nowrap\" width=\"168\"><span style=\"font-size: 10pt;\">Ролик&nbsp;<span style=\"font-size: 13.3333330154419px; line-height: 19.0476188659668px;\">для гидравлической тележки</span></span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">82</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">60</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">20</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">60</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">450</span></td>\n" +
+        "<td style=\"width: 126.25pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black;   ;  height: 16.5pt;\"   width=\"168\"><span >Ролик&nbsp;<span style=\"font-size: 13.3333330154419px; line-height: 19.0476188659668px;\">для гидравлической тележки</span></span></td>\n" +
+        "<td ><span >82</span></td>\n" +
+        "<td ><span >60</span></td>\n" +
+        "<td ><span >20</span></td>\n" +
+        "<td><span >60</span></td>\n" +
+        "<td ><span >450</span></td>\n" +
         "</tr>\n" +
         "<tr style=\"height: 16.5pt;\">\n" +
-        "<td style=\"width: 126.25pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt;\" nowrap=\"nowrap\" width=\"168\"><span style=\"font-size: 10pt;\">Ролик&nbsp;<span style=\"font-size: 13.3333330154419px; line-height: 19.0476188659668px;\">для гидравлической тележки</span></span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">82</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">70</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">20</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">70</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">500</span></td>\n" +
+        "<td >для гидравлической тележки</span></span></td>\n" +
+        "<td><span >82</span></td>\n" +
+        "<td ><span >70</span></td>\n" +
+        "<td><span >20</span></td>\n" +
+        "<td ><span >70</span></td>\n" +
+        "<td><span >500</span></td>\n" +
         "</tr>\n" +
         "<tr style=\"height: 16.5pt;\">\n" +
-        "<td style=\"width: 126.25pt; border-style: none solid solid; border-right-color: black; border-bottom-color: black; border-left-color: black; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt;\" nowrap=\"nowrap\" width=\"168\"><span style=\"font-size: 10pt;\">Ролик&nbsp;<span style=\"font-size: 13.3333330154419px; line-height: 19.0476188659668px;\">для гидравлической тележки</span></span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">100</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">100</span></td>\n" +
-        "<td style=\"width: 27pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"36\"><span style=\"font-size: 10pt;\">20</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">100</span></td>\n" +
-        "<td style=\"width: 36pt; border-style: none solid solid none; border-bottom-color: black; border-bottom-width: 1pt; border-right-color: black; border-right-width: 1pt; padding: 0cm 5.4pt; height: 16.5pt; text-align: center;\" nowrap=\"nowrap\" width=\"48\"><span style=\"font-size: 10pt;\">750</span></td>\n" +
+        "<td  ><span >Ролик&nbsp;<span style=\"font-size: 13.3333330154419px; line-height: 19.0476188659668px;\">для гидравлической тележки</span></span></td>\n" +
+        "<td><span >100</span></td>\n" +
+        "<td><span >100</span></td>\n" +
+        "<td ><span >20</span></td>\n" +
+        "<td><span >100</span></td>\n" +
+        "<td><span >750</span></td>\n" +
         "</tr>\n" +
         "</tbody>\n" +
         "</table>\n" +

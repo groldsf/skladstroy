@@ -5,51 +5,51 @@ export default{
     html:"<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
         "\t\t\t\t<div>\n" +
-        "\t\t\t\t<p style=\"text-align: center;\"><span style=\"font-size: 18pt;  \"><strong>Модель ТВ</strong></span></p>\n" +
+        "\t\t\t\t<p  \"><span ><strong>Модель ТВ</strong></span></p>\n" +
         "<p>&nbsp;</p>\n" +
         "<p>&nbsp;</p>\n" +
-        "<table border=\"0\" style=\"height: 181px; width: 631px;\">\n" +
+        "<table border=\"0\" >\n" +
         "<tbody>\n" +
         "<tr>\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">Грузоподъемность</span></strong></span></td>\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">В/п</span></strong></span></td>\n" +
+        "<td  \"><span ><strong><span >Грузоподъемность</span></strong></span></td>\n" +
+        "<td  \"><span ><strong><span >В/п</span></strong></span></td>\n" +
         "</tr>\n" +
-        "<tr style=\"text-align: center;\">\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">0,5</span></strong></span></td>\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">3,6,9,12</span></strong></span></td>\n" +
+        "<tr  \">\n" +
+        "<td  \"><span ><strong><span >0,5</span></strong></span></td>\n" +
+        "<td  \"><span ><strong><span >3,6,9,12</span></strong></span></td>\n" +
         "</tr>\n" +
-        "<tr style=\"text-align: center;\">\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">1,0</span></strong></span></td>\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">3,6,9,12</span></strong></span></td>\n" +
+        "<tr  \">\n" +
+        "<td  \"><span ><strong><span >1,0</span></strong></span></td>\n" +
+        "<td  \"><span ><strong><span >3,6,9,12</span></strong></span></td>\n" +
         "</tr>\n" +
-        "<tr style=\"text-align: center;\">\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">1,5</span></strong></span></td>\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">3,6,9,12</span></strong></span></td>\n" +
+        "<tr  \">\n" +
+        "<td  \"><span ><strong><span >1,5</span></strong></span></td>\n" +
+        "<td  \"><span ><strong><span >3,6,9,12</span></strong></span></td>\n" +
         "</tr>\n" +
-        "<tr style=\"text-align: center;\">\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">2,0</span></strong></span></td>\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">3,6,9,12</span></strong></span></td>\n" +
+        "<tr  \">\n" +
+        "<td  \"><span ><strong><span >2,0</span></strong></span></td>\n" +
+        "<td  \"><span ><strong><span >3,6,9,12</span></strong></span></td>\n" +
         "</tr>\n" +
-        "<tr style=\"text-align: center;\">\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">3,2</span></strong></span></td>\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">3,6,9,12</span></strong></span></td>\n" +
+        "<tr  \">\n" +
+        "<td  \"><span ><strong><span >3,2</span></strong></span></td>\n" +
+        "<td  \"><span ><strong><span >3,6,9,12</span></strong></span></td>\n" +
         "</tr>\n" +
-        "<tr style=\"text-align: center;\">\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">5,0</span></strong></span></td>\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">3,6,9,12</span></strong></span></td>\n" +
+        "<tr  \">\n" +
+        "<td  \"><span ><strong><span >5,0</span></strong></span></td>\n" +
+        "<td  \"><span ><strong><span >3,6,9,12</span></strong></span></td>\n" +
         "</tr>\n" +
-        "<tr style=\"text-align: center;\">\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">10,0</span></strong></span></td>\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">3,6,9,12</span></strong></span></td>\n" +
+        "<tr  \">\n" +
+        "<td  \"><span ><strong><span >10,0</span></strong></span></td>\n" +
+        "<td  \"><span ><strong><span >3,6,9,12</span></strong></span></td>\n" +
         "</tr>\n" +
-        "<tr style=\"text-align: center;\">\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">20,0</span></strong></span></td>\n" +
-        "<td style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong><span style=\" \">6,12</span></strong></span></td>\n" +
+        "<tr  \">\n" +
+        "<td  \"><span ><strong><span >20,0</span></strong></span></td>\n" +
+        "<td  \"><span ><strong><span >6,12</span></strong></span></td>\n" +
         "</tr>\n" +
         "</tbody>\n" +
         "</table>\n" +
-        "<p><span style=\"  font-size: 12px;  \">Таль ручная шестеренная очень надежна, удобна и проста в применение.&nbsp;</span></p>\n" +
-        "<p style=\"text-align: center;\">&nbsp;</p>\t\t\t\t</div>\n" +
+        "<p><span style=\" >Таль ручная шестеренная очень надежна, удобна и проста в применение.&nbsp;</span></p>\n" +
+        "<p  \">&nbsp;</p>\t\t\t\t</div>\n" +
         "\t\t\t</div>\n" +
         "\t\t\t<div class=\"btp-detail-extrafields\">\n" +
         "\t\t\t\t\t\t\t</div>\n" +

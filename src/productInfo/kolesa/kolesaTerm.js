@@ -5,27 +5,27 @@ export default {
     html: "<div class=\"btp-detail-desc\">\n" +
         "\t\t\t<div class=\"btp-detail-desc-full\">\n" +
         "\t\t\t\t<div>\n" +
-        "\t\t\t\t<p><span style=\"  font-size: 11px; line-height: 15px; text-align: justify;  \">Цельно литое колесо имеет платформенное крепление, ступица колеса оснащена смазочным ниппелем. Обладают слабой сопротивляемостью к качению. Колесо изготовленное из высококачественной высоко углеродистой стали, является запасной сменной частью для передвижного оборудования и позволяет работать при различных нагрузках, в агрессивных средах и перепадах температур.</span></p>\n" +
-        "<table class=\"w100\" style=\"margin: 0px 0px 40px; padding: 0px; border: 0px; font-size: 14px; border-collapse: collapse; border-spacing: 0px; width: 729px;      \">\n" +
-        "<tbody style=\"margin: 0px; padding: 0px; border: 0px;\">\n" +
-        "<tr class=\"k\" style=\"margin: 0px; padding: 0px; border: 0px;\"><th class=\"name value k1\" style=\"margin: 0px; border: 1px solid #d8d8d8; font-size: 10px;   text-align: center; height: 50px; vertical-align: bottom;\" itemprop=\"nagruzka1\"><span style=\"margin: 0px; padding: 0px; border: 0px;\">Нагрузка</span></th><th class=\"name value k2\" style=\"margin: 0px; border: 1px solid #d8d8d8; font-size: 10px;   text-align: center; height: 50px; vertical-align: bottom;\" itemprop=\"diametr1\"><span style=\"margin: 0px; padding: 0px; border: 0px;\">Диаметр</span></th><th class=\"name value k3\" style=\"margin: 0px; border: 1px solid #d8d8d8; font-size: 10px;   text-align: center; height: 50px; vertical-align: bottom;\" itemprop=\"vysota1\"><span style=\"margin: 0px; padding: 0px; border: 0px;\">Высота</span></th><th class=\"name value k4\" style=\"margin: 0px; border: 1px solid #d8d8d8; font-size: 10px;   text-align: center; height: 50px; vertical-align: bottom;\" itemprop=\"gabarity1\"><span style=\"margin: 0px; padding: 0px; border: 0px;\">Габариты</span></th></tr>\n" +
-        "<tr style=\"margin: 0px; padding: 0px; border: 0px;\">\n" +
-        "<td class=\"name value\" style=\"margin: 0px; padding: 7px; border: 1px solid #d8d8d8; font-size: 12px;   text-align: center;\" itemprop=\"nagruzka1\">400</td>\n" +
-        "<td class=\"name value\" style=\"margin: 0px; padding: 7px; border: 1px solid #d8d8d8; font-size: 12px;   text-align: center;\" itemprop=\"diametr1\">127</td>\n" +
-        "<td class=\"name value\" style=\"margin: 0px; padding: 7px; border: 1px solid #d8d8d8; font-size: 12px;   text-align: center;\" itemprop=\"vysota1\">159</td>\n" +
-        "<td class=\"name value\" style=\"margin: 0px; padding: 7px; border: 1px solid #d8d8d8; font-size: 12px;   text-align: center;\" itemprop=\"gabarity1\">115х100</td>\n" +
+        "\t\t\t\t<p><span >Цельно литое колесо имеет платформенное крепление, ступица колеса оснащена смазочным ниппелем. Обладают слабой сопротивляемостью к качению. Колесо изготовленное из высококачественной высоко углеродистой стали, является запасной сменной частью для передвижного оборудования и позволяет работать при различных нагрузках, в агрессивных средах и перепадах температур.</span></p>\n" +
+        "<table >\n" +
+        "<tbody >\n" +
+        "<tr><th  ><span >Нагрузка</span></th><th><span >Диаметр</span></th><th  ><span >Высота</span></th><th><span >Габариты</span></th></tr>\n" +
+        "<tr >\n" +
+        "<td    >400</td>\n" +
+        "<td    >127</td>\n" +
+        "<td    >159</td>\n" +
+        "<td   >115х100</td>\n" +
         "</tr>\n" +
-        "<tr class=\"even\" style=\"margin: 0px; padding: 0px; border: 0px;  \">\n" +
-        "<td class=\"name value\" style=\"margin: 0px; padding: 7px; border: 1px solid #d8d8d8; font-size: 12px;   text-align: center;\" itemprop=\"nagruzka1\">600</td>\n" +
-        "<td class=\"name value\" style=\"margin: 0px; padding: 7px; border: 1px solid #d8d8d8; font-size: 12px;   text-align: center;\" itemprop=\"diametr1\">152</td>\n" +
-        "<td class=\"name value\" style=\"margin: 0px; padding: 7px; border: 1px solid #d8d8d8; font-size: 12px;   text-align: center;\" itemprop=\"vysota1\">189</td>\n" +
-        "<td class=\"name value\" style=\"margin: 0px; padding: 7px; border: 1px solid #d8d8d8; font-size: 12px;   text-align: center;\" itemprop=\"gabarity1\">115х100</td>\n" +
+        "<tr >\n" +
+        "<td    >600</td>\n" +
+        "<td    >152</td>\n" +
+        "<td    >189</td>\n" +
+        "<td   >115х100</td>\n" +
         "</tr>\n" +
-        "<tr style=\"margin: 0px; padding: 0px; border: 0px;\">\n" +
-        "<td class=\"name value\" style=\"margin: 0px; padding: 7px; border: 1px solid #d8d8d8; font-size: 12px;   text-align: center;\" itemprop=\"nagruzka1\">750</td>\n" +
-        "<td class=\"name value\" style=\"margin: 0px; padding: 7px; border: 1px solid #d8d8d8; font-size: 12px;   text-align: center;\" itemprop=\"diametr1\">202</td>\n" +
-        "<td class=\"name value\" style=\"margin: 0px; padding: 7px; border: 1px solid #d8d8d8; font-size: 12px;   text-align: center;\" itemprop=\"vysota1\">236</td>\n" +
-        "<td class=\"name value\" style=\"margin: 0px; padding: 7px; border: 1px solid #d8d8d8; font-size: 12px;   text-align: center;\" itemprop=\"gabarity1\">115х100</td>\n" +
+        "<tr >\n" +
+        "<td    >750</td>\n" +
+        "<td    >202</td>\n" +
+        "<td    >236</td>\n" +
+        "<td   >115х100</td>\n" +
         "</tr>\n" +
         "</tbody>\n" +
         "</table>\n" +
