@@ -1,8 +1,7 @@
 <template>
         <v-app-bar app color="black" tag="header" extension-height="20">
             <v-row>
-
-                <v-col sm="12" md="8" class="inner-wrap">
+                <v-col cols="12" md="8" class="inner-wrap">
                     <v-btn-toggle mandatory >
                         <router-link :to="{name:'homePage'}" class="logo-link">
                             <v-btn tile text>
@@ -38,9 +37,6 @@
                 <div class="cross-line"/>
             </template>
         </v-app-bar>
-
-
-
 </template>
 
 <script>
